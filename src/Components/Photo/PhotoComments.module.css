@@ -1,0 +1,26 @@
+.comments {
+  overflow-y: auto;
+  word-break: break-word;
+  padding: 0 2rem;
+}
+
+.single.comments {
+  padding: 0;
+}
+
+.comments li {
+  margin-bottom: .5rem;
+  line-height: 1.2;
+}
+
+.comments::-webkit-scrollbar {
+  width: 10px;
+  border: 5px solid #fea;
+  background-color: #fea;
+}
+
+.comments::-webkit-scrollbar-thumb {
+  background-color: #fb1;
+  border: 3px solid #fb1;
+  border-radius: 20px;
+}
