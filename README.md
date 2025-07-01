@@ -7,7 +7,7 @@
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Login e cadastro de usuário
 - Upload de fotos com nome, peso e idade
