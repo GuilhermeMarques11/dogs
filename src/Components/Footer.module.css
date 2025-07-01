@@ -9,3 +9,8 @@
 .footer p {
   margin-top: 1rem;
 }
+
+.footer a:hover {
+  color: #764701;
+  text-decoration: underline;
+}
